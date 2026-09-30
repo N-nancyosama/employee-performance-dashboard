@@ -1,5 +1,3 @@
-# employee-performance-dashboard
-Power BI dashboard for analyzing employee performance.
 # Employee Performance Analysis Dashboard
 
 ## Project Overview
